@@ -1,5 +1,12 @@
 /*============ ESTILOS INTERDI ============*/
-
+body {
+    background: white;
+    font-family: "Poppins", sans-serif;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    padding-top: 80px;
+}
 
 
 /*============ DAVID INICIO ============*/
