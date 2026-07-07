@@ -17,7 +17,25 @@ body {
 
 /*============ KEVIN INICIO ============*/
 
+/* #region ========= HERO ========= */
 
+.contenedorHero {
+    display: flex;
+    flex-direction: row;
+}
+.contenedorInternoHeroIzquierda {
+    display: flex;
+    flex-direction: column;
+}
+.contenedorInternoImgDerecha {
+    display: flex;
+    width: 50%;
+}
+.contenedorInternoImgDerecha img {
+    width: 200px;
+}
+
+/* #endregion */
 
 
 
